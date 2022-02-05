@@ -1,2 +1,1 @@
-# Bagli-Liste-ile-Kelime-Sayma
-Verilen bir metinde hangi kelimeden kaçar tane olduğunu en yüksekten en küçüğe sıralayan proje
+Koddaki metin.txt dosyasının dizinini kodda kendi bilgisayarınıza göre ayarlayınız
