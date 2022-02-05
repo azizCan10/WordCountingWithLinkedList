@@ -1,4 +1,4 @@
-C dili ile yazılmıştır
+C dili kullanılarak yazılmıştır
 
 CLion idesinde çalıştırılması tavsiye edilir
 
