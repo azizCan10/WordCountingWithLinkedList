@@ -1,5 +1,5 @@
-C dili kullanılarak yazılmıştır
+Written with C
 
-CLion idesinde çalıştırılması tavsiye edilir
+CLion ide is recommended
 
-Koddaki metin.txt dosyasının dizinini kodda kendi bilgisayarınıza göre ayarlayınız
+Set the location of the metin.txt file according to your computer.
