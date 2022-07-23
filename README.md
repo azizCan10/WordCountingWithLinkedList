@@ -1,3 +1,5 @@
+## Word Counting with Linked List
+
 Written with C
 
 CLion ide is recommended to run
